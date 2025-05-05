@@ -29,7 +29,7 @@ Busco me tornar um desenvolvedor junior para que assim possa ingressar e poder a
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoLMS&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoLMS&layout=compact&langs_count=6&theme=dark&hide_border=false" height="180" />
 </div>
 
 ---
