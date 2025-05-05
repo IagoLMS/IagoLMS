@@ -22,7 +22,11 @@ Aqui você encontrará projetos pessoais, estudos e experimentos que refletem mi
 
 ## ✨ Sobre Mim
 
-Busco me tornar um desenvolvedor junior para que assim possa ingressar e poder aplicar meus conhecimentos. Atualmente estou em foco nas aplicações BackEnd, mas tambem possuo conhecimentos sobre os processos de FrontEnd. Tenho familiaridade com as linguagens **Java**, como tambem **C**, onde foi minha liguagem introdutoria, possuo um conhecimento consolidado com banco de dados **MySQL**. Tenho conhecimentos em **Git** para controle de versionamento e também experiência com **HTML** e **CSS** para desenvolvimento web.
+Atualmente estou em foco nas aplicações BackEnd, Olá! Sou um desenvolvedor apaixonado por tecnologia e evolução contínua. Tenho 20 anos, estudo e pratico programação com foco em Java, C e MySQL, além de dominar ferramentas como Git, HTML e CSS.
+
+Fora das telas, tenho como hobby a musculação, que me ensinou disciplina, foco e paciência — qualidades que aplico também no meu crescimento como programador.
+
+Acredito muito na filosofia do Kaizen, onde cada pequena melhoria diária é um passo a mais em direção a grandes resultados. Com dedicação e consistência, sigo evoluindo um pouco todos os dias. 🚀
 
 
 
